@@ -1,0 +1,121 @@
+city,hour,traffic
+Bronx,0,181
+Bronx,1,103
+Bronx,2,76
+Bronx,3,73
+Bronx,4,76
+Bronx,5,150
+Bronx,6,265
+Bronx,7,342
+Bronx,8,380
+Bronx,9,321
+Bronx,10,351
+Bronx,11,351
+Bronx,12,352
+Bronx,13,439
+Bronx,14,555
+Bronx,15,633
+Bronx,16,656
+Bronx,17,663
+Bronx,18,593
+Bronx,19,502
+Bronx,20,590
+Bronx,21,547
+Bronx,22,466
+Bronx,23,309
+Brooklyn,0,4165
+Brooklyn,1,2669
+Brooklyn,2,1766
+Brooklyn,3,1910
+Brooklyn,4,2065
+Brooklyn,5,3150
+Brooklyn,6,5829
+Brooklyn,7,8296
+Brooklyn,8,7907
+Brooklyn,9,6503
+Brooklyn,10,6383
+Brooklyn,11,6553
+Brooklyn,12,6965
+Brooklyn,13,7940
+Brooklyn,14,9518
+Brooklyn,15,11577
+Brooklyn,16,13379
+Brooklyn,17,14122
+Brooklyn,18,12691
+Brooklyn,19,10702
+Brooklyn,20,11405
+Brooklyn,21,11691
+Brooklyn,22,10285
+Brooklyn,23,6989
+Manhattan,0,5262
+Manhattan,1,3279
+Manhattan,2,2233
+Manhattan,3,2572
+Manhattan,4,2898
+Manhattan,5,4307
+Manhattan,6,7925
+Manhattan,7,11087
+Manhattan,8,10848
+Manhattan,9,8851
+Manhattan,10,8611
+Manhattan,11,8689
+Manhattan,12,9253
+Manhattan,13,10647
+Manhattan,14,12753
+Manhattan,15,15586
+Manhattan,16,17696
+Manhattan,17,18443
+Manhattan,18,16471
+Manhattan,19,14002
+Manhattan,20,14624
+Manhattan,21,15049
+Manhattan,22,13075
+Manhattan,23,8814
+New York,0,543
+New York,1,332
+New York,2,248
+New York,3,250
+New York,4,281
+New York,5,509
+New York,6,1036
+New York,7,1560
+New York,8,1420
+New York,9,1218
+New York,10,1318
+New York,11,1378
+New York,12,1444
+New York,13,1614
+New York,14,1706
+New York,15,2078
+New York,16,2438
+New York,17,2527
+New York,18,2241
+New York,19,1891
+New York,20,1923
+New York,21,1955
+New York,22,1603
+New York,23,996
+Queens,0,4363
+Queens,1,2784
+Queens,2,1866
+Queens,3,2132
+Queens,4,2381
+Queens,5,3839
+Queens,6,6975
+Queens,7,9549
+Queens,8,9216
+Queens,9,7405
+Queens,10,6921
+Queens,11,7184
+Queens,12,7219
+Queens,13,8297
+Queens,14,9896
+Queens,15,11712
+Queens,16,13993
+Queens,17,14697
+Queens,18,13017
+Queens,19,11106
+Queens,20,11566
+Queens,21,11549
+Queens,22,10185
+Queens,23,7074
